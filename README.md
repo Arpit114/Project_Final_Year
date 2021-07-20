@@ -1,7 +1,8 @@
 # Project_Final_Year
-Multiple Face recognition based Attendance System  
+**Design and Development of Multiple Face recognition based Attendance System**  
   
-# Author's Identity  
+# Author's Identity
+  
 ## Team Members  
 **Arpit Pathak (1701410034) arpitpathak114@gmail.com**  
 **Pratishtha Agarwal (1701410078) pratishtha013@gmail.com**  
@@ -13,7 +14,8 @@ Multiple Face recognition based Attendance System
   
   
   
-# Files in CD  
+# Files in CD 
+ 
 ## Documentation  
 **Project presentation: A presentation showing the details about the project with flowchart.**  
 **README.md: File having Author's identity, System requirements and Steps to run the project**  
@@ -28,6 +30,7 @@ Multiple Face recognition based Attendance System
   
   
 # System Requirements  
+
 ## Hardware Requirements  
 **Intel core i3**  
 **4GB RAM**  
