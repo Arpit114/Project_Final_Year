@@ -3,39 +3,39 @@ Multiple Face recognition based Attendance System
 
 # Author's Identity
 ## Team Members
-	**Arpit Pathak (1701410034) arpitpathak114@gmail.com
-	**Pratishtha Agarwal (1701410078) pratishtha013@gmail.com
-	**Shivi Saxena (1701410096) Saxenashivi20@gmail.com
+	**Arpit Pathak (1701410034) arpitpathak114@gmail.com**
+	**Pratishtha Agarwal (1701410078) pratishtha013@gmail.com**
+	**Shivi Saxena (1701410096) Saxenashivi20@gmail.com**
 ## Supervisor's Name
-	**Mr. Hiresh Kumar Gupta
-	**Assistant Professor (Department of Computer Science and Engineering)
-	**Shri Ram Murti Smarak College of Engineering and Technology, Bareilly.
+	**Mr. Hiresh Kumar Gupta**
+	**Assistant Professor (Department of Computer Science and Engineering)**
+	**Shri Ram Murti Smarak College of Engineering and Technology, Bareilly.**
 
 
 
 # Files in CD
 	## Documentation
-		**Project presentation: A presentation showing the details about the project with flowchart.
-		**README.md: File having Author's identity, System requirements and Steps to run the project
+		**Project presentation: A presentation showing the details about the project with flowchart.**
+		**README.md: File having Author's identity, System requirements and Steps to run the project**
 	## Project_Deployment : Project Folder
-		**app.py: Main file to run the web portal
-		**database_create.sql: sql file containing queries to create database
-		**dataset_prepare.py: (Not to be edited) module to prepare dataset from uploaded dataset of student
-		**modelTrain.py: (Not to be edited) module to train the model over the dataset
-		**recognition.py: (Not to be edited) module to recognize the faces from the video uploaded by faculty
-		### Templates: Folder containing UI templates for project
+		**app.py: Main file to run the web portal**
+		**database_create.sql: sql file containing queries to create database**
+		**dataset_prepare.py: (Not to be edited) module to prepare dataset from uploaded dataset of student**
+		**modelTrain.py: (Not to be edited) module to train the model over the dataset**
+		**recognition.py: (Not to be edited) module to recognize the faces from the video uploaded by faculty**
+		### Templates: Folder containing UI templates for project**
 
 
 
-# System Requirements : 
+# System Requirements
 	## Hardware Requirements
-		**Intel core i3
-		**4GB RAM 
-		**50GB Hard Disk
+		**Intel core i3**
+		**4GB RAM**
+		**50GB Hard Disk**
 	## Software Requirements
 		**Python 3.4+ Installed and added to path.** [Download Python](https://www.python.org/downloads/)
 		**MySQL 8.0(GA) installed in system and setup on port number 3306.** [Download MySQL](https://www.mysql.com/downloads/)
-		** MySQL Workbench should be ready to create database. 
+		**MySQL Workbench should be ready to create database.**
 
 
 
