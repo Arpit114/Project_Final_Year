@@ -17,14 +17,14 @@
 # Files in CD 
  
 ## Documentation  
-**Project presentation: A presentation showing the details about the project with flowchart.**  
-**README.md: File having Author's identity, System requirements and Steps to run the project**  
+1. **Project presentation: A presentation showing the details about the project with flowchart.**  
+2. **README.md: File having Author's identity, System requirements and Steps to run the project**  
 ## Project_Deployment : Project Folder  
-**app.py: Main file to run the web portal**  
-**database_create.sql: sql file containing queries to create database**  
-**dataset_prepare.py: (Not to be edited) module to prepare dataset from uploaded dataset of student**  
-**modelTrain.py: (Not to be edited) module to train the model over the dataset**  
-**recognition.py: (Not to be edited) module to recognize the faces from the video uploaded by faculty**  
+3. **app.py: Main file to run the web portal**  
+4. **database_create.sql: sql file containing queries to create database**  
+5. **dataset_prepare.py: (Not to be edited) module to prepare dataset from uploaded dataset of student**  
+6. **modelTrain.py: (Not to be edited) module to train the model over the dataset**  
+7. **recognition.py: (Not to be edited) module to recognize the faces from the video uploaded by faculty**  
 ### Templates: Folder containing UI templates for project**  
   
   
