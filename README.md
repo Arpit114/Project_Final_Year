@@ -25,7 +25,7 @@
 5. **dataset_prepare.py: (Not to be edited) module to prepare dataset from uploaded dataset of student**  
 6. **modelTrain.py: (Not to be edited) module to train the model over the dataset**  
 7. **recognition.py: (Not to be edited) module to recognize the faces from the video uploaded by faculty**  
-### Templates: Folder containing UI templates for project**  
+8. ### Templates: Folder containing UI templates for project**  
   
   
   
